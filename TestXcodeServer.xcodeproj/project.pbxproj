@@ -705,6 +705,7 @@
 				94A2A2E01E8C2CF4000F8C0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		94A2A2E11E8C2CF4000F8C0B /* Build configuration list for PBXNativeTarget "TestXcodeServerTests" */ = {
 			isa = XCConfigurationList;
@@ -713,6 +714,7 @@
 				94A2A2E31E8C2CF4000F8C0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		94A2A2E41E8C2CF4000F8C0B /* Build configuration list for PBXNativeTarget "TestXcodeServerUITests" */ = {
 			isa = XCConfigurationList;
@@ -721,6 +723,7 @@
 				94A2A2E61E8C2CF4000F8C0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
